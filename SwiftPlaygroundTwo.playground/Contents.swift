@@ -26,3 +26,54 @@ if gradeA == true
 else{
     print("I'm not so sure about coding in Swift")
 }
+
+
+//Part 5 sets
+
+// Problem Set 1
+var numberOne: Int
+numberOne = 5
+
+var numberTwo: Int
+numberTwo = 10
+
+var comparison = numberOne > numberTwo
+
+if numberOne > numberTwo
+{
+    print("This is correct")
+}
+
+else{
+    print("This is incorrect")
+}
+
+// Problem Set 2
+var numberThree: String
+numberThree = "This class is fun"
+
+var numberFour: String
+numberFour = "This class is fun"
+
+if numberThree == numberFour
+{
+    print("I love coding")
+}
+
+
+// Problem Set 3
+var numberFive = false
+
+var numberSix = true
+
+if numberFive == numberSix
+{
+    print("You got it")
+}
+
+else
+{
+    print("Oops try again")
+}
+
+
